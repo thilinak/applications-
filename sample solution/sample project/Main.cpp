@@ -6,6 +6,7 @@ int main()
 	std::cout << "Another change to project for a second commit" << std::endl;
 	std::cout << "Another change to project for a third commit" << std::endl;
 	std::cout << "Another change to project for a fourth commit" << std::endl;
+	std::cout << "Another change to project for a fifth commit" << std::endl;
 
 	return 0;
 }
